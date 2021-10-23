@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  branch: main # Branch to update (optional; defaults to master)
+  repo: michoux76/cms # Branch to update (optional; defaults to master)
 media_folder: "assets/uploads"
 collections:
   - name: "blog"
